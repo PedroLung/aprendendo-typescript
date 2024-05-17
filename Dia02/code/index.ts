@@ -29,6 +29,7 @@
 // As Arrays
 {
   let values: number[] = [10, 20, 40, 30]
+  console.log(values)
 }
 // Tuples
 {
